@@ -1,0 +1,16 @@
+D:\sources\cpn\CPN.Domain\obj\Debug\netstandard2.0\CPN.Model.AssemblyInfoInputs.cache
+D:\sources\cpn\CPN.Domain\obj\Debug\netstandard2.0\CPN.Model.AssemblyInfo.cs
+D:\sources\cpn\CPN.Domain\bin\Debug\netstandard2.0\CPN.Model.deps.json
+D:\sources\cpn\CPN.Domain\bin\Debug\netstandard2.0\CPN.Model.dll
+D:\sources\cpn\CPN.Domain\bin\Debug\netstandard2.0\CPN.Model.pdb
+D:\sources\cpn\CPN.Domain\obj\Debug\netstandard2.0\CPN.Model.dll
+D:\sources\cpn\CPN.Domain\obj\Debug\netstandard2.0\CPN.Model.pdb
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\bin\Debug\netstandard2.0\CPN.Model.deps.json
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\bin\Debug\netstandard2.0\CPN.Model.dll
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\bin\Debug\netstandard2.0\CPN.Model.pdb
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\obj\Debug\netstandard2.0\CPN.Model.csproj.CoreCompileInputs.cache
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\obj\Debug\netstandard2.0\CPN.Model.AssemblyInfoInputs.cache
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\obj\Debug\netstandard2.0\CPN.Model.AssemblyInfo.cs
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\obj\Debug\netstandard2.0\CPN.Model.dll
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\obj\Debug\netstandard2.0\CPN.Model.pdb
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Model\obj\Debug\netstandard2.0\CPN.Model.csprojAssemblyReference.cache

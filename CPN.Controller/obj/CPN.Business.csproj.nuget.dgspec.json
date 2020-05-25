@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Controller\\CPN.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Controller\\CPN.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Controller\\CPN.Business.csproj",
+        "projectName": "CPN.Business",
+        "projectPath": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Controller\\CPN.Business.csproj",
+        "packagesPath": "C:\\Users\\jorgepereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorgepereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Model\\CPN.Model.csproj": {
+                "projectPath": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Model\\CPN.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.1.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Model\\CPN.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Model\\CPN.Model.csproj",
+        "projectName": "CPN.Model",
+        "projectPath": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Model\\CPN.Model.csproj",
+        "packagesPath": "C:\\Users\\jorgepereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorgepereira\\Documents\\cofco\\repos\\CPNCleanArchitecture\\CPN.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorgepereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

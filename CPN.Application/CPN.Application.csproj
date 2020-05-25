@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CPN.Application</AssemblyName>
+    <RootNamespace>CPN.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CPN.Infra.Data\CPN.Infra.Data.csproj" />
+    <ProjectReference Include="..\CPN.Model\CPN.Model.csproj" />
+  </ItemGroup>
+
+</Project>

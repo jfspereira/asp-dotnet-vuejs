@@ -1,0 +1,12 @@
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.csprojAssemblyReference.cache
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.csproj.CoreCompileInputs.cache
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.AssemblyInfoInputs.cache
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.AssemblyInfo.cs
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\bin\Debug\netstandard2.0\CPN.Business.deps.json
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\bin\Debug\netstandard2.0\CPN.Business.dll
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\bin\Debug\netstandard2.0\CPN.Model.dll
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\bin\Debug\netstandard2.0\CPN.Model.pdb
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.csproj.CopyComplete
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\bin\Debug\netstandard2.0\CPN.Business.pdb
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.dll
+C:\Users\jorgepereira\Documents\cofco\repos\CPNCleanArchitecture\CPN.Controller\obj\Debug\netstandard2.0\CPN.Business.pdb
